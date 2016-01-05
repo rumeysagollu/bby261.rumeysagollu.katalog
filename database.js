@@ -37,7 +37,7 @@ var catalog = [
     {
         "itemName":"Benim Üniversitelerim",
         "itemAuthor":"Maksim Gorki",
-        "itemImage":"images/benimüniversitelerim.jpg",
+        "itemImage":"images/benim.jpg",
         "itemCreationDate":"2015",
         "itemDescription":"<p>Benim Üniversitelerim, Maksim Gorki´nin hayatını yazdığı üç kitaptan sonuncusudur. İlk başta okuma azmiyle üniversiteye başladı gibi görünse de üniversite için gittiği şehirde okuyamamış, öğrencilerle beraber kalarak çalışma hayatına devam etmiştir. Devrimci kişilireler beraber yaşamaya başlamıştır. Siyasi düşüncelerinin geliştiği de önemli ölçüde hissedilir ki üniversitelerim olarak yaşadığı tecrübeleri belitmek istemiştir. Bir fırıncıda çalışırken intihar eder ve hastaneden çıktığında da bir Ukraynalı´nın yanına gider. Böyece çar rejimine karşı daha da direnişli olur. Okumayı da bırakmaz. Başına gelen bir dizi felaket olur ve kitaplardan okuduğu köylülerin aslında nasıl olduğunu betimler.<br>(Tanıtım Bülteninden)</p>"
     },
