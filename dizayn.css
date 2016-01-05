@@ -1,0 +1,14 @@
+body
+{
+     background-image:url(arkaplan.png);
+     background-color: #cccccc;
+    
+    <h1 style= "color:brown">YAZAR ADI İLE TARAMA</h1>
+        <h2 style= "color:brown "> KİTAP ADI İLE ARAMA</h2>
+        
+}
+
+ul
+{
+    font-size: 18px
+}
